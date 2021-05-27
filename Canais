@@ -5,6 +5,9 @@
 #EXTINF:-1 tvg-id="RedeGlobo.br" tvg-name="Rede Globo" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="Sports",Rede Globo (720p)
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8
 
+#EXTINF:-1 tvg-ID="" tvg-name="CNN BRASIL" tvg-logo="https://i.imgur.com/iCsbnC8.png" group-title="NOTICIAS",CNN BRASIL
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/28.m3u8
+
 #EXTINF:-1 tvg-id="TVE.br" tvg-name="TVE RS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/d/d0/Logotipo_do_SBT_RS.png/200px-Logotipo_do_SBT_RS.png" group-title="Canais Abertos",TVE RS
 http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8
 
