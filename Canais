@@ -1,15 +1,5 @@
 #EXTM3U
 
-t.ami.ka.wil.kinso.n.tmp@gmail.com
-Lauren Alexis 
-http://udq.me/get.php?username=tdnpV&password=Pz3te&type=m3u_plus&output=m3u8
-http://envivo.win/telefe
-#EXTINF:-1,Minha Mãe é Uma Peça 3
-https://oyxed75613jvmcc.belugacdn.link/series/killingeve/leg/3/5.mp4
-https://buxetaum.azureedge.net/filmes3/MNHAMAEEUMAPECA3.mp4
-
-
-
 #EXTINF:-1 tvg-id="TVE.br" tvg-name="TVE RS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/d/d0/Logotipo_do_SBT_RS.png/200px-Logotipo_do_SBT_RS.png" group-title="Canais Abertos",TVE RS
 http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8
 
@@ -27,6 +17,9 @@ https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs1/vintequatrohrs
 
 #EXTINF:-1 tvg-name="9-1-1 24h" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/32/9-1-1_title.png", 9-1-1 24h
 http://lista.lorddark.club:80/5247/5247/44894
+
+#EXTINF:-1 Tvg-logo = "" group-title="filmes "",Assassino a Preço Fixo
+https://play-akamai.pongalo.com/mechanic_pt/mechanic_pt_1-1/play_v1_hls_1080p.m3u8
 
 
 #EXTINF:-1 tvg-id="AgroBrasilTV.br" tvg-name="AgroBrasil TV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://www.costadosol.tv.br/site/wp-content/uploads/2017/12/agro-brasil.png" group-title="Outdoor",AgroBrasil TV (486p)
