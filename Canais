@@ -32,9 +32,6 @@ https://stream3.camara.gov.br/tv1/manifest.m3u8
 #EXTINF:-1 tvg-id="TVCamara2.br" tvg-name="TV Câmara 2" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/UpV2PRk.png" group-title="Legislative",TV Câmara 2
 https://stream3.camara.gov.br/tv2/manifest.m3u8
 
-#EXTINF:-1 tvg-id="NBA1" tvg-language="English",NBA1
-http://g.givemenbastreams.com/hls/tnt/chunks.m3u8
-
 #EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1-12141_al-jazeera-png-aljazeera-logo-01-png-al.png" group-title="Jornalismo", Al Jazeera English
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 
@@ -58,6 +55,9 @@ https://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_720_av-p.m3u8?sd=10&
 
 #EXTINF:-1,ESPN BRASIL
 https://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_720_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="NBA1" tvg-name="NBA1" tvg-language="English",NBA1
+http://g.givemenbastreams.com/hls/tnt/chunks.m3u8
 
 
 
