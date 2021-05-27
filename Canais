@@ -1,0 +1,4 @@
+#EXTM3U
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/d/d0/Logotipo_do_SBT_RS.png/200px-Logotipo_do_SBT_RS.png" group-title="Canais Abertos",TVE RS
+http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8
