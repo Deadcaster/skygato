@@ -1,13 +1,9 @@
 #EXTM3U
 
+############################### CANAIS ###############################
+
 #EXTINF:-1 tvg-id="TVE.br" tvg-name="TVE RS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/d/d0/Logotipo_do_SBT_RS.png/200px-Logotipo_do_SBT_RS.png" group-title="Canais Abertos",TVE RS
 http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CBNRio.br" tvg-name="CBN Rio" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/FZwHq8k.png" group-title="News",CBN Rio
-https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
-
-#EXTINF:-1 tvg-id="CBNSaoPaulo.br" tvg-name="CBN São Paulo" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/FZwHq8k.png" group-title="News",CBN São Paulo
-https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
 
 #EXTINF:-1 tvg-id="Bandnews.br" tvg-name="Band News" tvg-logo="https://imgur.com/WwSAtkh.png" group-title="ABERTOS",Band News
 http://evpp.mm.uol.com.br:1935/geob_band/bandnewstv/playlist.m3u8
@@ -15,11 +11,27 @@ http://evpp.mm.uol.com.br:1935/geob_band/bandnewstv/playlist.m3u8
 #EXTINF:-1 tvg-id="GLOBO SP" tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="TV Aberta",Globo SP HD
 https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs1/vintequatrohrs1_2000/index.m3u8
 
+
+
+############################### FILMES ###############################
+
 #EXTINF:-1 tvg-name="9-1-1 24h" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/32/9-1-1_title.png", 9-1-1 24h
 http://lista.lorddark.club:80/5247/5247/44894
 
 #EXTINF:-1 Tvg-logo = "" group-title="filmes "",Assassino a Preço Fixo
 https://play-akamai.pongalo.com/mechanic_pt/mechanic_pt_1-1/play_v1_hls_1080p.m3u8
+
+############################### SERIES ###############################
+
+
+############################### RADIO ###############################
+
+#EXTINF:-1 tvg-id="CBNRio.br" tvg-name="CBN Rio" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/FZwHq8k.png" group-title="News",CBN Rio
+https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
+
+#EXTINF:-1 tvg-id="CBNSaoPaulo.br" tvg-name="CBN São Paulo" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/FZwHq8k.png" group-title="News",CBN São Paulo
+https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
+
 
 
 #EXTINF:-1 tvg-id="AgroBrasilTV.br" tvg-name="AgroBrasil TV" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://www.costadosol.tv.br/site/wp-content/uploads/2017/12/agro-brasil.png" group-title="Outdoor",AgroBrasil TV (486p)
