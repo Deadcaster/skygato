@@ -2,14 +2,14 @@
 
 ############################### CANAIS ###############################
 
+#EXTINF:-1 tvg-id="RedeGlobo.br" tvg-name="Rede Globo" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="Sports",Rede Globo (720p)
+http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TVE.br" tvg-name="TVE RS" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/d/d0/Logotipo_do_SBT_RS.png/200px-Logotipo_do_SBT_RS.png" group-title="Canais Abertos",TVE RS
 http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Bandnews.br" tvg-name="Band News" tvg-logo="https://imgur.com/WwSAtkh.png" group-title="ABERTOS",Band News
 http://evpp.mm.uol.com.br:1935/geob_band/bandnewstv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RedeGlobo.br" tvg-name="Rede Globo" tvg-country="BR" tvg-language="Portuguese" tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="Sports",Rede Globo (720p)
-http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TELECINEACTION.br" tvg-name="TELE CINE ACTION" tvg-country="BR" tvg-language="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSppL6n53PBbAfSGmT7iTtb3DxFJnshjqljGw&usqp=CAU" group-title="",TELE CINE ACTION (390p)
 http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/playlist-480p.m3u8
@@ -31,6 +31,28 @@ https://stream3.camara.gov.br/tv1/manifest.m3u8
 
 #EXTINF:-1 tvg-id="TVCamara2.br" tvg-name="TV Câmara 2" tvg-country="BR" tvg-language="Portuguese" tvg-logo="https://i.imgur.com/UpV2PRk.png" group-title="Legislative",TV Câmara 2
 https://stream3.camara.gov.br/tv2/manifest.m3u8
+
+EXTINF:-1 tvg-id="NBA1" tvg-language="English",NBA1
+http://g.givemenbastreams.com/hls/tnt/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1-12141_al-jazeera-png-aljazeera-logo-01-png-al.png" group-title="Jornalismo", Al Jazeera English
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/futura.png" group-title="Pública",FDR - Futura (CE)
+http://stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/retro-tv.png" group-title="Infantil", Retrô Cartoon
+https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/catve.png" group-title="Pública",Catve - Cultura (PR)
+https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w125430112.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recnews.png" group-title="Jornalismo",Record News
+https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="Variedades", RecordTV Brasília
+https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/master.m3u8
+
 
 ############################### FILMES ###############################
 
